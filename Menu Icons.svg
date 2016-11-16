@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Menu Icons.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="-551.27357"
+     inkscape:cy="589.32759"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="0,1"
+       position="236.88077,982.49962"
+       id="guide3775" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="228.26291,979.27976"
+       id="guide3777" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="227.28432,982.49962"
+       id="guide3779" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="210.87054,1002.4777"
+       id="guide3782" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="242.58929,942.14286"
+       id="guide4041" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="316.16072,951.02679"
+       id="guide4057" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="314.15179,941.60715"
+       id="guide4059" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#0169c9;stroke-width:4.19888973;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:29.25999975"
+       id="path3888"
+       sodipodi:cx="314.15179"
+       sodipodi:cy="101.3354"
+       sodipodi:rx="33.290577"
+       sodipodi:ry="33.290577"
+       d="m 280.86938,102.07278 a 33.290577,33.290577 0 1 1 1.6e-4,0.007"
+       sodipodi:start="3.1194411"
+       sodipodi:end="9.4024184"
+       transform="matrix(2.2600192,0,0,2.26912,-1296.5155,289.08989)"
+       inkscape:export-filename="/home/misha/Google Drive/AndroidStudioWorkspace/RedTooth/app/src/main/res/splash.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:open="true" />
+    <path
+       id="path3755-3-7-5-3-5"
+       style="fill:none;stroke:#0169c9;stroke-width:6.92614365;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m -587.09229,519.44701 c 0,-27.67346 2.07358,-50.10725 4.63159,-50.10725 2.55792,0 4.63162,22.43379 4.63162,50.10725 0,0 0,0 0,0 m -9.26409,-0.0673 c 0,27.67347 -2.07363,50.10696 -4.63156,50.10696 -2.55793,0 -4.63151,-22.43349 -4.63151,-50.10696 0,0 0,0 0,0 m 46.32221,-0.64784 c 0,-27.67376 2.07366,-50.10725 4.63154,-50.10725 2.55791,0 4.6316,22.43349 4.6316,50.10725 0,0 0,0 0,0 m -9.26405,-0.0676 c 0,27.67349 -2.07363,50.10715 -4.63159,50.10715 -2.55788,0 -4.63155,-22.43366 -4.63155,-50.10715 0,0 0,0 0,0 m -9.26948,0.76067 c 0,-27.67348 2.07362,-50.10723 4.63151,-50.10723 2.55791,0 4.63162,22.43375 4.63162,50.10723 0,0 0,0 0,0 m -9.26415,-0.0676 c 0,27.67316 -2.07358,50.10691 -4.63149,50.10691 -2.55792,0 -4.63156,-22.43375 -4.63156,-50.10691 0,0 0,0 0,0 m -40.95372,0.24226 c 0,-24.81906 5.02356,-44.93873 11.22041,-44.93873 6.19694,0 11.22043,20.11967 11.22043,44.93873 0,0 0,0 0,0 m -22.44307,-0.0673 c 0,24.81891 -5.02352,44.9384 -11.22044,44.9384 -6.19687,0 -11.22044,-20.11949 -11.22044,-44.9384 0,0 0,0 0,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/misha/Google Drive/AndroidStudioWorkspace/RedTooth/app/src/main/res/splash.png"
+       inkscape:export-xdpi="90.471207"
+       inkscape:export-ydpi="90.471207" />
+    <g
+       id="g4053"
+       inkscape:export-filename="/home/misha/Google Drive/AndroidStudioWorkspace/RedTooth/app/src/main/res/drawable-v21/qpsk.png"
+       inkscape:export-xdpi="83.948494"
+       inkscape:export-ydpi="83.948494"
+       transform="matrix(0.97079693,0,0,3.4595004,-89.915087,-174.75807)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 269.18925,98.527763 c 0,2.617077 1.905,4.738637 4.25491,4.738637 2.34993,0 4.25492,-2.12156 4.25492,-4.738637 l 0,-0.03042 m -8.51069,0.03742 c 0,-2.617063 -1.90499,-4.73862 -4.25491,-4.73862 -2.34993,0 -4.25493,2.121557 -4.25493,4.73862 l 0,0 m -8.54247,0.05944 c 0,-2.617063 1.905,-4.73863 4.25491,-4.73863 2.34993,0 4.25493,2.121567 4.25493,4.73863 l 0,0 m -8.5107,-0.007 c 0,2.617077 -1.81746,4.579457 -4.16738,4.579457 -2.34992,0 -4.25493,-2.12157 -4.25493,-4.738648 l 0,0"
+         style="fill:none;stroke:#0197fd;stroke-width:1.59662688;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:15.9662685"
+         id="path3755-3-6"
+         sodipodi:nodetypes="cscccscccscccscc" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 269.25373,98.494288 c 0,-2.617064 1.90499,-4.738628 4.25491,-4.738628 2.34993,0 4.25493,2.121564 4.25493,4.738628 l 0,0 m -8.5107,-0.0072 c 0,2.617062 -1.905,4.738612 -4.25491,4.738612 -2.34993,0 -4.25492,-2.12155 -4.25492,-4.738612 l 0,0 m -8.54248,-0.05945 c 0,2.617072 1.905,4.738642 4.25492,4.738642 2.34992,0 4.25492,-2.12157 4.25492,-4.738642 l 0,0 m -8.5107,0.0072 c 0,-2.617064 -1.90499,-4.738629 -4.2549,-4.738629 -2.34994,0 -4.25493,2.121565 -4.25493,4.738629 l 0.0159,0.06251"
+         style="fill:none;stroke:#000000;stroke-width:1.59660959;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3755-3-6-6"
+         sodipodi:nodetypes="cscccscccscccscc" />
+    </g>
+    <path
+       id="path3755-3-6-6-9"
+       style="fill:none;stroke:#000000;stroke-width:2.92523432;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 174.09854,99.401016 c 0,-9.08309 1.84914,-16.44643 4.13017,-16.44643 2.28104,0 4.13018,7.36334 4.13018,16.44643 0,0 0,0 0,0 m -8.2612,-0.0243 c 0,9.083104 -1.84913,16.446384 -4.13016,16.446384 -2.28103,0 -4.13018,-7.36328 -4.13018,-16.446384 0,0 0,0 0,0 m -8.29204,-0.20639 c 0,9.083094 1.84914,16.446434 4.13017,16.446434 2.28103,0 4.13019,-7.36334 4.13019,-16.446434 0,0 0,0 0,0 m -8.2612,0.0245 c 0,-9.08309 -1.84913,-16.44644 -4.13017,-16.44644 -2.28104,0 -4.13017,7.36335 -4.13017,16.44644 0,0 0,0 0,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/misha/Google Drive/AndroidStudioWorkspace/RedTooth/app/src/main/res/drawable-v21/bpsk.png"
+       inkscape:export-xdpi="90.313591"
+       inkscape:export-ydpi="90.313591" />
+    <g
+       id="g4043"
+       transform="matrix(0.94400099,0,0,3.2362423,-136.16344,-329.19833)"
+       inkscape:export-filename="/home/misha/Google Drive/AndroidStudioWorkspace/RedTooth/app/src/main/res/drawable-v21/ofdm_qpsk.png"
+       inkscape:export-xdpi="92.654152"
+       inkscape:export-ydpi="92.654152">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 255.95429,140.68105 c 0,2.7557 0.97903,4.98966 2.1867,4.98966 1.20769,0 2.18672,-2.23396 2.18672,-4.98966 0,0 0,0 0,0 m -4.37386,0.007 c 0,-2.75569 -0.97902,-4.98963 -2.1867,-4.98963 -1.20769,0 -2.18672,2.23394 -2.18672,4.98963 0,0 0,0 0,0 m -4.39018,0.0626 c 0,-2.7557 0.97902,-4.98965 2.1867,-4.98965 1.20769,0 2.18671,2.23395 2.18671,4.98965 0,0 0,0 0,0 m -4.37385,-0.007 c 0,2.75571 -0.97903,4.98966 -2.18671,4.98966 -1.20768,0 -2.18671,-2.23395 -2.18671,-4.98966 0,0 0,0 0,0"
+         style="fill:none;stroke:#000000;stroke-width:1.67041814;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.16704181, 0.16704181;stroke-dashoffset:0"
+         id="path3755-3-6-1" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 255.98743,140.64581 c 0,-2.7557 0.97902,-4.98965 2.18671,-4.98965 1.20768,0 2.18671,2.23395 2.18671,4.98965 0,0 0,0 0,0 m -4.37386,-0.007 c 0,2.7557 -0.97903,4.98963 -2.1867,4.98963 -1.20769,0 -2.18671,-2.23393 -2.18671,-4.98963 0,0 0,0 0,0 m -4.39019,-0.0626 c 0,2.7557 0.97902,4.98965 2.1867,4.98965 1.20769,0 2.18671,-2.23395 2.18671,-4.98965 0,0 0,0 0,0 m -4.37386,0.007 c 0,-2.7557 -0.97902,-4.98965 -2.1867,-4.98965 -1.20768,0 -2.18671,2.23395 -2.18671,4.98965 0,0 0,0 0,0"
+         style="fill:none;stroke:#000000;stroke-width:1.67041814;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3755-3-6-6-2" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 273.45476,140.77498 c 0,2.75571 0.97902,4.98966 2.1867,4.98966 1.20769,0 2.18671,-2.23395 2.18671,-4.98966 0,0 0,0 0,0 m -4.37385,0.007 c 0,-2.7557 -0.97903,-4.98964 -2.18671,-4.98964 -1.20768,0 -2.18671,2.23394 -2.18671,4.98964 0,0 0,0 0,0 m -4.39019,0.0626 c 0,-2.7557 0.97903,-4.98965 2.18671,-4.98965 1.20768,0 2.18671,2.23395 2.18671,4.98965 0,0 0,0 0,0 m -4.37386,-0.007 c 0,2.75571 -0.97902,4.98966 -2.1867,4.98966 -1.20769,0 -2.18672,-2.23395 -2.18672,-4.98966 0,0 0,0 0,0"
+         style="fill:none;stroke:#000000;stroke-width:1.67041814;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.16704181, 0.16704181;stroke-dashoffset:0"
+         id="path3755-3-6-1-7" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 273.4879,140.73974 c 0,-2.75569 0.97902,-4.98965 2.1867,-4.98965 1.20768,0 2.18671,2.23396 2.18671,4.98965 0,0 0,0 0,0 m -4.37386,-0.007 c 0,2.75569 -0.97902,4.98962 -2.1867,4.98962 -1.20769,0 -2.18671,-2.23393 -2.18671,-4.98962 0,0 0,0 0,0 m -4.39019,-0.0626 c 0,2.7557 0.97903,4.98965 2.18671,4.98965 1.20768,0 2.18671,-2.23395 2.18671,-4.98965 0,0 0,0 0,0 m -4.37386,0.007 c 0,-2.7557 -0.97902,-4.98965 -2.1867,-4.98965 -1.20769,0 -2.18671,2.23395 -2.18671,4.98965 0,0 0,0 0,0"
+         style="fill:none;stroke:#000000;stroke-width:1.67041814;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3755-3-6-6-2-0" />
+    </g>
+    <g
+       id="g4049"
+       transform="matrix(0.92426851,0,0,3.1785216,-102.63476,-431.32098)"
+       inkscape:export-filename="/home/misha/Google Drive/AndroidStudioWorkspace/RedTooth/app/src/main/res/drawable-v21/ofdm_bpsk.png"
+       inkscape:export-xdpi="93.651848"
+       inkscape:export-ydpi="93.651848">
+      <path
+         id="path3755-3-6-6-9-9-3"
+         style="fill:none;stroke:#000000;stroke-width:1.70533323;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 275.76581,154.28057 c 0,-2.8445 1.00148,-5.15043 2.23685,-5.15043 1.23538,0 2.23686,2.30593 2.23686,5.15043 0,0 0,0 0,0 m -4.47416,-0.007 c 0,2.84451 -1.00148,5.15043 -2.23684,5.15043 -1.23538,0 -2.23686,-2.30592 -2.23686,-5.15043 0,0 0,0 0,0 m -4.49086,-0.0646 c 0,2.8445 1.00147,5.15045 2.23684,5.15045 1.23538,0 2.23686,-2.30595 2.23686,-5.15045 0,0 0,0 0,0 m -4.47415,0.007 c 0,-2.84449 -1.00147,-5.15043 -2.23684,-5.15043 -1.23539,0 -2.23686,2.30594 -2.23686,5.15043 0,0 0,0 0,0 m -4.47526,0.11308 c 0,-2.84449 1.00147,-5.15043 2.23685,-5.15043 1.23537,0 2.23686,2.30594 2.23686,5.15043 0,0 0,0 0,0 m -4.47417,-0.007 c 0,2.84451 -1.00146,5.15042 -2.23684,5.15042 -1.23538,0 -2.23685,-2.30591 -2.23685,-5.15042 0,0 0,0 0,0 m -4.49086,-0.0646 c 0,2.84451 1.00147,5.15044 2.23684,5.15044 1.23538,0 2.23686,-2.30593 2.23686,-5.15044 0,0 0,0 0,0 m -4.47415,0.007 c 0,-2.8445 -1.00148,-5.15044 -2.23685,-5.15044 -1.23538,0 -2.23686,2.30594 -2.23686,5.15044 0,0 0,0 0,0"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       id="path3755-3-7-5-3-5-3"
+       style="fill:none;stroke:#0169c9;stroke-width:6.92614365;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m -651.00302,475.74558 c 2.11138,0 2.6943,1.35723 4.38108,5.41878 3.26362,7.85875 5.44707,22.17866 5.44707,38.54113 l 0,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/misha/Google Drive/AndroidStudioWorkspace/RedTooth/app/src/main/res/splash.png"
+       inkscape:export-xdpi="90.471207"
+       inkscape:export-ydpi="90.471207"
+       sodipodi:nodetypes="cscc" />
+    <path
+       id="path3755-3-7-5-3-5-6"
+       style="fill:none;stroke:#0169c9;stroke-width:6.92614365;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m -534.15183,563.91439 c -0.59961,3.06648 -1.26979,4.78136 -1.97703,4.78136 -0.54899,0 -1.07563,-1.03326 -1.56425,-2.92983 -1.78825,-6.94058 -3.06729,-25.44289 -3.06729,-47.17733 l 0,0 m -0.003,0.76067 0,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/misha/Google Drive/AndroidStudioWorkspace/RedTooth/app/src/main/res/splash.png"
+       inkscape:export-xdpi="90.471207"
+       inkscape:export-ydpi="90.471207"
+       sodipodi:nodetypes="csscccc" />
+    <rect
+       style="fill:#0169c9;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3077"
+       width="7.3695736"
+       height="1.3320842"
+       x="-666.50568"
+       y="519.73199"
+       ry="0"
+       rx="0"
+       inkscape:export-filename="/home/misha/Google Drive/AndroidStudioWorkspace/RedTooth/app/src/main/res/splash.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

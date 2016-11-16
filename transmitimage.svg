@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="transmitimage.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="32"
+     inkscape:cx="235.42477"
+     inkscape:cy="804.40205"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       id="guide3755"
+       position="241.52116,809.21111"
+       orientation="0,1" />
+    <sodipodi:guide
+       id="guide3757"
+       position="240.63728,806.19644"
+       orientation="1,0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       inkscape:menu="Color"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Desaturate"
+       id="filter3017">
+      <feColorMatrix
+         values="0"
+         type="saturate"
+         id="feColorMatrix3019" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       inkscape:menu="Color"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Desaturate"
+       id="filter3021">
+      <feColorMatrix
+         values="0"
+         type="saturate"
+         id="feColorMatrix3023" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       inkscape:menu="Color"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Desaturate"
+       id="filter3025">
+      <feColorMatrix
+         values="0"
+         type="saturate"
+         id="feColorMatrix3027" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       inkscape:menu="Color"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Desaturate"
+       id="filter3029">
+      <feColorMatrix
+         values="0"
+         type="saturate"
+         id="feColorMatrix3031" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       inkscape:menu="Color"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Desaturate"
+       id="filter3033">
+      <feColorMatrix
+         values="0"
+         type="saturate"
+         id="feColorMatrix3035" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       inkscape:menu="Color"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Desaturate"
+       id="filter3037">
+      <feColorMatrix
+         values="0"
+         type="saturate"
+         id="feColorMatrix3039" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       inkscape:export-ydpi="89.969795"
+       inkscape:export-xdpi="89.969795"
+       inkscape:export-filename="/home/misha/Google Drive/AndroidStudioWorkspace/RedTooth/app/src/main/res/drawable/transmit.png"
+       ry="10.186252"
+       rx="0"
+       y="238.17537"
+       x="235.82863"
+       height="9.7866678"
+       width="9.7995872"
+       id="rect2985"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;filter:url(#filter3037)"
+       transform="matrix(0.98780356,0,0,0.99172876,2.90593,2.03852)" />
+    <path
+       inkscape:export-ydpi="89.969795"
+       inkscape:export-xdpi="89.969795"
+       inkscape:export-filename="/home/misha/Google Drive/AndroidStudioWorkspace/RedTooth/app/src/main/res/drawable/transmit.png"
+       transform="matrix(1.0050221,0,0,1.0076855,-1.1530435,-1.9198575)"
+       sodipodi:open="true"
+       sodipodi:end="9.4165477"
+       sodipodi:start="3.1354136"
+       d="m 236.80194,243.17478 a 3.8354204,3.8354204 0 1 1 5e-5,0.008"
+       sodipodi:ry="3.8354204"
+       sodipodi:rx="3.8354204"
+       sodipodi:cy="243.15108"
+       sodipodi:cx="240.63728"
+       id="path3761"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;filter:url(#filter3033)"
+       sodipodi:type="arc" />
+    <path
+       inkscape:export-ydpi="89.969795"
+       inkscape:export-xdpi="89.969795"
+       inkscape:export-filename="/home/misha/Google Drive/AndroidStudioWorkspace/RedTooth/app/src/main/res/drawable/transmit.png"
+       transform="matrix(1.0050221,0,0,1.0076855,-1.1530435,-1.9198575)"
+       sodipodi:open="true"
+       sodipodi:end="9.4165477"
+       sodipodi:start="3.1354136"
+       d="m 237.85153,243.16829 a 2.7858088,2.7858088 0 1 1 4e-5,0.006"
+       sodipodi:ry="2.7858088"
+       sodipodi:rx="2.7858088"
+       sodipodi:cy="243.15108"
+       sodipodi:cx="240.63728"
+       id="path3763"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;filter:url(#filter3029)"
+       sodipodi:type="arc" />
+    <rect
+       inkscape:export-ydpi="89.969795"
+       inkscape:export-xdpi="89.969795"
+       inkscape:export-filename="/home/misha/Google Drive/AndroidStudioWorkspace/RedTooth/app/src/main/res/drawable/transmit.png"
+       transform="matrix(0.69894316,-0.70079547,0.69894316,0.70079547,2.90593,2.03852)"
+       y="342.06213"
+       x="-8.8180752"
+       height="0.083196625"
+       width="13.852239"
+       id="rect3767"
+       style="fill:none;stroke:#ffffff;stroke-width:0.10167607;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.20335214, 0.61005642;stroke-dashoffset:0;filter:url(#filter3025)" />
+    <rect
+       inkscape:export-ydpi="89.969795"
+       inkscape:export-xdpi="89.969795"
+       inkscape:export-filename="/home/misha/Google Drive/AndroidStudioWorkspace/RedTooth/app/src/main/res/drawable/transmit.png"
+       transform="matrix(-0.69894316,-0.70079547,-0.69894316,0.70079547,2.90593,2.03852)"
+       y="1.8227704"
+       x="-349.01999"
+       height="0.083196625"
+       width="13.852239"
+       id="rect3767-3"
+       style="fill:none;stroke:#ffffff;stroke-width:0.10167607;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.20335214, 0.61005642;stroke-dashoffset:0;filter:url(#filter3021)" />
+    <path
+       inkscape:export-ydpi="89.969795"
+       inkscape:export-xdpi="89.969795"
+       inkscape:export-filename="/home/misha/Google Drive/AndroidStudioWorkspace/RedTooth/app/src/main/res/drawable/transmit.png"
+       transform="matrix(1.0050221,0,0,1.0076855,-1.1530435,-1.9198575)"
+       sodipodi:open="true"
+       sodipodi:end="9.4165477"
+       sodipodi:start="3.1354136"
+       d="m 238.93866,243.16157 a 1.6986574,1.6986574 0 1 1 2e-5,0.003"
+       sodipodi:ry="1.6986574"
+       sodipodi:rx="1.6986574"
+       sodipodi:cy="243.15108"
+       sodipodi:cx="240.63728"
+       id="path3787"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3017)"
+       sodipodi:type="arc" />
+  </g>
+</svg>
