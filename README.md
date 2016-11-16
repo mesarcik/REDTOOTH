@@ -7,7 +7,11 @@ This project contains the working repository for the Android Studio based projec
 The application developed was built for Android 6 and used 16-FSK with a symbol duration of 0.5 seconds per symbol to transmit strings of 80 bits.
 
 ##OVERVIEW
-![alt tag](https://raw.githubusercontent.com/mesarcik/REDTOOTH/master/blockdiagram.png)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mesarcik/REDTOOTH/master/blockdiagram.png" title="System Block Diagram">
+</p>
+
 
 
 As shown by the diagram a simplified model of the implemented system may be segmented into two subsystems, the transmitter and receiver. These two subsystems are then interfaced with and controlled by the main class. 
