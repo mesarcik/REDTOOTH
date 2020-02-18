@@ -58,4 +58,5 @@ The audio handler essentially worked as an interface for the wave-file library. 
 The signal generator object was used to populate ArrayLists for the carriers and synchronization signals. The carrier generation was achieved by iteratively populating the ArrayList with a sinusoidal waveform sampled at 44100Hz.
 
 ## USAGE
-Install the .apk file found in app/build/outputs/apk/ on any Android device using Andriod 5.0 or above.
+Build the project, it is compatible on Android 5.0 and above. 
+
